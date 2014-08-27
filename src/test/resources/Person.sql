@@ -1,0 +1,6 @@
+CREATE TABLE PERSON
+(
+   PK_PERSON int PRIMARY KEY NOT NULL,
+   FIRSTNAME varchar(200),
+   LASTNAME varchar(200)
+);
